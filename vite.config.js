@@ -6,5 +6,5 @@ import react from "@vitejs/plugin-react";
 // any extra configuration. Also fine on a custom domain.
 export default defineConfig({
   plugins: [react()],
-  base: "/ausomigos/",
+  base: "/",
 });
