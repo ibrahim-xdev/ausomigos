@@ -15,7 +15,7 @@ export const shop = {
   tagline: "Smash burgers, loaded fries, no shortcuts.",
   city: "Islamabad",
   neighborhood: "F-8 Markaz",
-  address: "Shah G Restaurant, F-8 Markaz, F-8, Islamabad, Pakistan",
+  address: "Ausomigos, F-8 Markaz, F-8, Islamabad, Pakistan",
   mapsUrl:
     "https://www.google.com/maps/search/?api=1&query=Ausomigos+F-8+Markaz+Islamabad",
   phoneDisplay: "+92 312 5126016",
